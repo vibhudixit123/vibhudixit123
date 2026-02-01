@@ -6,7 +6,7 @@ I build production-grade ML systems and AI applications — from predictive pipe
 
 <br/>
 
-## 🚀 What I'm Building (Right Now)
+## 🚀 What I'm Building
 
 ### 🔗 Blockchain Analytics & ML Systems - *At Benefi Global*
 
